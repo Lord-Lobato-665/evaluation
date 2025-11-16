@@ -10,7 +10,6 @@ if(string.IsNullOrEmpty(palabraOriginal))
 
 char[] palabraFragmentada = palabraOriginal.ToCharArray();
 int index = palabraFragmentada.Count() - 1;
-int indexInvertido = palabraFragmentada.Count() - palabraFragmentada.Count();
 List<char> listaInvertida = new List<char>();
 
 for(int i = index; i >= 0; i--)

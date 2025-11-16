@@ -12,3 +12,4 @@ C:\Users\pochi\OneDrive\Desktop\Exam\palindromo\obj\Debug\net9.0\refint\palindro
 C:\Users\pochi\OneDrive\Desktop\Exam\palindromo\obj\Debug\net9.0\palindromo.pdb
 C:\Users\pochi\OneDrive\Desktop\Exam\palindromo\obj\Debug\net9.0\palindromo.genruntimeconfig.cache
 C:\Users\pochi\OneDrive\Desktop\Exam\palindromo\obj\Debug\net9.0\ref\palindromo.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\palindromo\obj\Debug\net9.0\palindromo.sourcelink.json
