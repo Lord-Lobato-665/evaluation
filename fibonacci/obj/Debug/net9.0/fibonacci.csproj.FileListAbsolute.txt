@@ -1,0 +1,15 @@
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfo.cs
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.sourcelink.json
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\bin\Debug\net9.0\fibonacci.exe
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\bin\Debug\net9.0\fibonacci.deps.json
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\bin\Debug\net9.0\fibonacci.runtimeconfig.json
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\bin\Debug\net9.0\fibonacci.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\bin\Debug\net9.0\fibonacci.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\refint\fibonacci.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\fibonacci.genruntimeconfig.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\fibonacci\obj\Debug\net9.0\ref\fibonacci.dll
