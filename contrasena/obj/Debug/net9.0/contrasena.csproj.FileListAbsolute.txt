@@ -1,0 +1,15 @@
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.AssemblyInfoInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.AssemblyInfo.cs
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.csproj.CoreCompileInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.sourcelink.json
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\bin\Debug\net9.0\contrasena.exe
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\bin\Debug\net9.0\contrasena.deps.json
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\bin\Debug\net9.0\contrasena.runtimeconfig.json
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\bin\Debug\net9.0\contrasena.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\bin\Debug\net9.0\contrasena.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\refint\contrasena.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\contrasena.genruntimeconfig.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\contrasena\obj\Debug\net9.0\ref\contrasena.dll
