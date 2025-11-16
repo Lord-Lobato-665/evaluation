@@ -1,0 +1,15 @@
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.AssemblyInfoInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.AssemblyInfo.cs
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.sourcelink.json
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\bin\Debug\net9.0\ahorcado.exe
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\bin\Debug\net9.0\ahorcado.deps.json
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\bin\Debug\net9.0\ahorcado.runtimeconfig.json
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\bin\Debug\net9.0\ahorcado.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\bin\Debug\net9.0\ahorcado.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\refint\ahorcado.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ahorcado.genruntimeconfig.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\ahorcado\obj\Debug\net9.0\ref\ahorcado.dll

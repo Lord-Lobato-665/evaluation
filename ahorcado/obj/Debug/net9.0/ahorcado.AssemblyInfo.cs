@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("palindromo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ahorcado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3afc07fb66b448aa6758bb33f884f6e1bac0c508")]
-[assembly: System.Reflection.AssemblyProductAttribute("palindromo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("palindromo")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc559246a7b7c62fa73dc10c5d652b7823ae1e49")]
+[assembly: System.Reflection.AssemblyProductAttribute("ahorcado")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ahorcado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
