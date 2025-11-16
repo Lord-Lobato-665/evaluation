@@ -1,0 +1,15 @@
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.AssemblyInfoInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.AssemblyInfo.cs
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.sourcelink.json
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\bin\Debug\net9.0\calcularEdad.exe
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\bin\Debug\net9.0\calcularEdad.deps.json
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\bin\Debug\net9.0\calcularEdad.runtimeconfig.json
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\bin\Debug\net9.0\calcularEdad.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\bin\Debug\net9.0\calcularEdad.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\refint\calcularEdad.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\calcularEdad.genruntimeconfig.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\calcularEdad\obj\Debug\net9.0\ref\calcularEdad.dll
