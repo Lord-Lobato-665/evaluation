@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Ejercicio no realizado :(");
+Console.WriteLine("Ejercicio no realizado");
