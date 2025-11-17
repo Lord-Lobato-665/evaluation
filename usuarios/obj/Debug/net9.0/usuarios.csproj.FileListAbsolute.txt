@@ -1,0 +1,15 @@
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.AssemblyInfoInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.AssemblyInfo.cs
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.csproj.CoreCompileInputs.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.sourcelink.json
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\bin\Debug\net9.0\usuarios.exe
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\bin\Debug\net9.0\usuarios.deps.json
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\bin\Debug\net9.0\usuarios.runtimeconfig.json
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\bin\Debug\net9.0\usuarios.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\bin\Debug\net9.0\usuarios.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\refint\usuarios.dll
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.pdb
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\usuarios.genruntimeconfig.cache
+C:\Users\pochi\OneDrive\Desktop\Exam\usuarios\obj\Debug\net9.0\ref\usuarios.dll
